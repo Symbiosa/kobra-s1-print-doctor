@@ -1,0 +1,7 @@
+google-genai
+streamlit
+pillow
+python-dotenv
+opencv-python-headless
+requests
+paho-mqtt
